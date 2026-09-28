@@ -1,0 +1,44 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10107,30,95.7,2,2871,2/24/2003 0:00,Shipped,1,2,2003,Motorcycles,95,S10_1678,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10121,34,81.35,5,2765.9,5/7/2003 0:00,Shipped,2,5,2003,Motorcycles,95,S10_1678,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+10134,41,94.74,2,3884.34,7/1/2003 0:00,Shipped,3,7,2003,Motorcycles,95,S10_1678,Lyon Souveniers,#ERROR!,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10145,45,83.26,6,3746.7,8/25/2003 0:00,Shipped,3,8,2003,Motorcycles,95,S10_1678,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium
+10159,49,100,14,5205.27,10/10/2003 0:00,Shipped,4,10,2003,Motorcycles,95,S10_1678,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Medium
+10168,36,96.66,1,3479.76,10/28/2003 0:00,Shipped,4,10,2003,Motorcycles,95,S10_1678,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium
+10180,29,86.13,9,2497.77,11/11/2003 0:00,Shipped,4,11,2003,Motorcycles,95,S10_1678,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small
+10188,48,100,1,5512.32,11/18/2003 0:00,Shipped,4,11,2003,Motorcycles,95,S10_1678,Herkku Gifts,#ERROR!,"Drammen 121, PR 744 Sentrum",,Bergen,,N 5804,Norway,EMEA,Oeztan,Veysel,Medium
+10201,22,98.57,2,2168.54,12/1/2003 0:00,Shipped,4,12,2003,Motorcycles,95,S10_1678,Mini Wheels Co.,6505555787,5557 North Pendale Street,,San Francisco,CA,,USA,NA,Murphy,Julie,Small
+10211,41,100,14,4708.44,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,95,S10_1678,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10223,37,100,1,3965.66,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,95,S10_1678,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10237,23,100,7,2333.12,4/5/2004 0:00,Shipped,2,4,2004,Motorcycles,95,S10_1678,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10251,28,100,2,3188.64,5/18/2004 0:00,Shipped,2,5,2004,Motorcycles,95,S10_1678,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Medium
+10263,34,100,2,3676.76,6/28/2004 0:00,Shipped,2,6,2004,Motorcycles,95,S10_1678,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Medium
+10275,45,92.83,1,4177.35,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10285,36,100,6,4099.68,8/27/2004 0:00,Shipped,3,8,2004,Motorcycles,95,S10_1678,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10299,23,100,9,2597.39,9/30/2004 0:00,Shipped,3,9,2004,Motorcycles,95,S10_1678,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Small
+10309,41,100,5,4394.38,10/15/2004 0:00,Shipped,4,10,2004,Motorcycles,95,S10_1678,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium
+10318,46,94.74,1,4358.04,11/2/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Diecast Classics Inc.,2155551555,7586 Pompton St.,,Allentown,PA,70267,USA,NA,Yu,Kyung,Medium
+10329,42,100,1,4396.14,11/15/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10341,41,100,9,7737.93,11/24/2004 0:00,Shipped,4,11,2004,Motorcycles,95,S10_1678,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+10361,20,72.55,13,1451,12/17/2004 0:00,Shipped,4,12,2004,Motorcycles,95,S10_1678,Souveniers And Things Co.,#ERROR!,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10375,21,34.91,12,733.11,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10388,42,76.36,4,3207.12,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,95,S10_1678,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,NA,Benitez,Violeta,Medium
+10403,24,100,7,2434.56,4/8/2005 0:00,Shipped,2,4,2005,Motorcycles,95,S10_1678,"UK Collectables, Ltd.",(171) 555-2282,Berkeley Gardens 12 Brewery,,Liverpool,,WX1 6LT,UK,EMEA,Devon,Elizabeth,Small
+10417,66,100,2,7516.08,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,95,S10_1678,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10103,26,100,11,5404.62,1/29/2003 0:00,Shipped,1,1,2003,Classic Cars,214,S10_1949,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium
+10112,29,100,1,7209.11,3/24/2003 0:00,Shipped,1,3,2003,Classic Cars,214,S10_1949,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen 8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Large
+10126,38,100,11,7329.06,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,214,S10_1949,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Large
+10140,37,100,11,7374.1,7/24/2003 0:00,Shipped,3,7,2003,Classic Cars,214,S10_1949,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Large
+10150,45,100,8,10993.5,9/19/2003 0:00,Shipped,3,9,2003,Classic Cars,214,S10_1949,"Dragon Souveniers, Ltd.",#ERROR!,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Large
+10163,21,100,1,4860.24,10/20/2003 0:00,Shipped,4,10,2003,Classic Cars,214,S10_1949,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10174,34,100,4,8014.82,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,214,S10_1949,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Large
+10388,42,76.36,4,3207.12,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,95,S10_1678,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,NA,Benitez,Violeta,Medium
+10403,24,100,7,2434.56,4/8/2005 0:00,Shipped,2,4,2005,Motorcycles,95,S10_1678,"UK Collectables, Ltd.",(171) 555-2282,Berkeley Gardens 12 Brewery,,Liverpool,,WX1 6LT,UK,EMEA,Devon,Elizabeth,Small
+10417,66,100,2,7516.08,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,95,S10_1678,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+10103,26,100,11,5404.62,1/29/2003 0:00,Shipped,1,1,2003,Classic Cars,214,S10_1949,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium
+10112,29,100,1,7209.11,3/24/2003 0:00,Shipped,1,3,2003,Classic Cars,214,S10_1949,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen 8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Large
+10126,38,100,11,7329.06,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,214,S10_1949,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Large
+10140,37,100,11,7374.1,7/24/2003 0:00,Shipped,3,7,2003,Classic Cars,214,S10_1949,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Large
+10150,45,100,8,10993.5,9/19/2003 0:00,Shipped,3,9,2003,Classic Cars,214,S10_1949,"Dragon Souveniers, Ltd.",#ERROR!,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Large
+10163,21,100,1,4860.24,10/20/2003 0:00,Shipped,4,10,2003,Classic Cars,214,S10_1949,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10174,34,100,4,8014.82,11/6/2003 0:00,Shipped,4,11,2003,Classic Cars,214,S10_1949,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Large
