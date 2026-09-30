@@ -33,6 +33,12 @@ The chat model is swappable — this workflow works the same with Google Gemini,
 | `workflow.json` | The n8n workflow (credentials and personal details removed) |
 | `data/sales_data_sample.csv` | Sample dataset to test with |
 
+## Demo Video
+
+https://github.com/user-attachments/assets/e37f8c7b-c85f-4ffe-9985-b1c9d3669c43
+
+
+
 ## Setup
 
 **1. Put the dataset in Google Sheets**
